@@ -1,1 +1,1 @@
-# 7-digit-display-counter
+# 7-segment-display-counter
