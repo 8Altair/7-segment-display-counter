@@ -17,7 +17,7 @@ driving the segments.
 
 ## Hardware
 
-- **Microcontroller:** STM32F411 (Nucleo-64 board)
+- **Microcontroller:** STM32F411E-Discovery
 - **Display:** ELS-516SURWA/S530-A2 7-segment LED with common anode
 - **Connections:**
 
