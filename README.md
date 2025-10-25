@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains a simple yet instructive embedded systems project for the  
-STM32F411 development board (commonly available on the **Nucleo-64** series).  
+STM32F411E-Discovery development board.  
 It demonstrates how to drive a single **7-segment LED display** to count  
 through the digits **0 – 9**. The code is written in **C** and runs on bare  
 metal – no HAL libraries or external frameworks – and uses direct register  
